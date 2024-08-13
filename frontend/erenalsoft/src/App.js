@@ -16,6 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           renalsoft
+          <h1 className="text-3xl font-bold underline">
+      and Tailwindcss!
+    </h1>
         </a>
       </header>
     </div>
